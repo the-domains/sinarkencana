@@ -1,0 +1,28 @@
+name: sinarkencana
+favicon: null
+layout_spectrum: 0.03303524642251432
+typography_spectrum: 0.4270439650863409
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.40452818269841373
+  lightness: 0.7168854596093297
+  saturation: 0.33453239710070193
+  rhythmicContrast: 0.5645692502148449
+purpose: []
